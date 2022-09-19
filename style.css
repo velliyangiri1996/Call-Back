@@ -1,0 +1,37 @@
+.h2{
+    color: blueviolet;
+    background-color: antiquewhite;  /*  headding  */
+    width: 390px;
+}
+.btn:link{
+    color: black;
+    background-color: aqua;
+}
+
+.btn:hover{
+    color: red;
+    background-color:lightgray;   /*  button hover and design  */
+}
+
+.btn:active{
+    color: blue;
+    background-color:red;
+}
+
+.btn:visited{
+    color: green;
+    background-color:white;
+}
+
+.btn{
+    margin: 20px;
+    /* color: violet;
+    background-color: yellow; */
+    height: 100px;
+    width: 200px;
+    font-size: 40px;                /*  button design  */
+    border: 0px;
+    font-weight: bolder;
+    flex-wrap: wrap;
+    font-family: 'Times New Roman';
+}
